@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "name": "Variables and Numbers Activity Exercise 1",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise One\\n16",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Variables and Numbers Activity Exercise 2",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Two\\n2",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Variables and Numbers Activity Exercise 3",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Three\\n16",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Variables and Numbers Activity Exercise 4",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Four\\n6",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Variables and Numbers Activity Exercise 5",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Five\\n5",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Variables and Numbers Activity Exercise 6",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Six\\nundefined",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Variables and Numbers Activity Exercise 7",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Seven\\n30",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Variables and Numbers Activity Exercise 8",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Eight\\n-3",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
